@@ -5,9 +5,9 @@ Author - Saurabh Sharma
 This project is a frontend web application using **Next.js (App Router)**, **Zustand**, **Material-UI**, and the **DummyJSON public API**.
 
 ---
-**App Login Credentials - 
-username = emilys
-password = emilyspass
+**App Login Credentials
+- username = emilys
+- password = emilyspass
 
 ## 🚀 Tech Stack
 
