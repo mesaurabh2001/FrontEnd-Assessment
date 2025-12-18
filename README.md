@@ -1,4 +1,4 @@
-# Frontend Technical Assessment – Green Dream Earth
+# Frontend Technical Assessment
 
 Author - Saurabh Sharma
 
